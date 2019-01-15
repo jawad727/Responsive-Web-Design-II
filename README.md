@@ -25,5 +25,5 @@ You have experienced building fixed layout web pages, adaptive web pages, and no
 * [ ] Introduce CSS animations at different break points across your site
 * [ ] Build another page based on one of the navigation items and use your creativity on how it looks.
 
-
+ 
 
